@@ -1,0 +1,4 @@
+risk_group,customers,churners,churn_rate_%
+Low,765,62,8.1
+Medium,376,134,35.6
+High,268,178,66.4
