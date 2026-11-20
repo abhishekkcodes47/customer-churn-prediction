@@ -27,7 +27,7 @@ can target retention offers only where they are needed.
 - 25 automated tests, 100% coverage of preprocess.py
 
 ## Live dashboard
-(Streamlit link yahan daalna hai, step 9 me)
+https://abhishek-churn-dashboard.streamlit.app
 
 ## How to run
     pip install -r requirements.txt
